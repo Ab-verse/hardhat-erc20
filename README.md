@@ -1,1 +1,1 @@
-# Sample Hardhat Project
+# ERC-20 Hardhat Project
