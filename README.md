@@ -1,1 +1,1 @@
-# ERC-2 Hardhat Project
+# ERC-20 Hardhat Project
