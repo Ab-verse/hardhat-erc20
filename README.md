@@ -1,3 +1,3 @@
 # ERC-20 Hardhat Project
 
-Goerli scan URL: https://goerli.etherscan.io/address/0x74271C5F459ef5A0ee626d4bC9A7643f3Be9249F
+Goerli scan URL: https://goerli.etherscan.io/address/0xA766afFb641132d3D22521dCa9c65a599BD1434f

@@ -6,7 +6,7 @@ async function main() {
 
   await abToken.deployed();
 
-  console.log("Ocean Token deployed: ", abToken.address);
+  console.log("Ab Token deployed: ", abToken.address);
 }
 
 main().catch((error) => {
